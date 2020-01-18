@@ -1,3 +1,2 @@
 # Bayesian-Classifier and K-Means Clustering
-Implementation of supervised learing algorithm without libraries
-This is a tutorial explaining the algorithm of Naive Bayes using only Numpy and matplotlib libraries.
+This is the implementation of Supervised as well as Unsupervised learning techniques. Bayesian Classifier/ Naive Bayes algorithm has been used for supervised learning. K-means Clustering algorithm has been used for unsupervised learning. 
