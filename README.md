@@ -1,2 +1,2 @@
-# Bayesian-Classifier and K-Means Clustering
+# Bayesian-Classifier & K-Means Clustering
 This project aims at implementation of supervised and unsupervised learning. For Supervised Learning, the algorithm used was Naive Bayes Classifier. It is used as a Classification Machine Learning model. The model was trained using 3 classes of 500 data-points each. For Unsupervised Learning, the algorithm used was K-Means Clustering. It is used as a Clustering Machine Learning model. The model was used for partitioning 4500 data-points into 3 or more clusters. The python libraries used were NumPy, Pandas and Matplotlib.
